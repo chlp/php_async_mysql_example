@@ -1,6 +1,6 @@
 # php async mysql example
 
-An example of several mysql calls that run in parallel from a single php process. Total time = execution time of the longest mysql call.
+[Script-example](index.php) with several parallel mysql calls from a single php process. Total time = execution time of the longest mysql call.
 
 This script's output:
 ```
