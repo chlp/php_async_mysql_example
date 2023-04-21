@@ -1,0 +1,19 @@
+{
+    "name": "alekseirytikov/php_async_mysql_example",
+    "type": "project",
+    "require": {
+        "amphp/mysql": "^2.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alekseirytikov\\PhpAsyncMysqlExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksei Rytikov",
+            "email": "user.raa@gmail.com"
+        }
+    ]
+}
